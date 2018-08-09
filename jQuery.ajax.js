@@ -1,0 +1,1 @@
+document.write('</br><a href="https://duipee.blogspot.com" style="font-size: 75%; text-decoration:none; color: #111111;text-align:right;margin:0;padding:10px 20px;font-weight:600;" title="AMP Blogspot Tools" target="_blank">AMP Blogspot Tools</a>')
